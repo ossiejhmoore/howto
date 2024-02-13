@@ -1,5 +1,7 @@
 # Nightly OS Update
 
+Login to your server and do a `sudo su -` to become root.
+
 Create a `/root/bin` directory:
 ```
 mkdir /root/bin
