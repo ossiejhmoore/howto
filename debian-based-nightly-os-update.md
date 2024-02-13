@@ -10,8 +10,8 @@ Create/Upload the a shell script named `/root/bin/nightly-os-update.sh` as:
 ```
 #!/bin/sh
 
-apt-get update
-apt-get upgrade
+apt-get -y update
+apt-get -y upgrade
 reboot
 ```
 > If you feel strongly about not rebooting nightly, then omit or comment out the `reboot` command.
