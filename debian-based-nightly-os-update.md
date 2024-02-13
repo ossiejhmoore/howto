@@ -25,7 +25,7 @@ Go into crontab edit mode by executing the `crontab -e` command. If you are pres
 ```
 crontab -e
 ```
-You whould be presented with a `crontab` devoid of any scheduled jobs but with a lot of documentation comments. Below is what mine looks like on a clean Unbutu installation:
+You should be presented with a `crontab` devoid of any scheduled jobs but with a lot of documentation comments. Below is what mine looks like on a clean Unbutu installation:
 ```
 # Edit this file to introduce tasks to be run by cron.
 # 
